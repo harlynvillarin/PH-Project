@@ -1,0 +1,322 @@
+.main-header {
+  background: url(../img/background-img.svg);
+  min-height: 600px;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.active-link {
+  color: #EFCD1A;
+  font-weight: bold;
+}
+
+.main-header .btn {
+  width: 250px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
+.main-header .showcase {
+  padding-top: 70px;
+  color: #FBFBFB;
+}
+
+.main-header .showcase .btn {
+  width: 180px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0D0D0D;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #292929;
+  min-width: 250px;
+}
+
+.dropdown-content a:hover {
+  background-color: #fdd73e
+}
+
+.dropdown-content li>a {
+  color: #FBFBFB;
+}
+
+.main-header .sidenav .btn {
+  width: 270px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0D0D0D;
+}
+
+.sidenav .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: grey;
+  min-width: 250px;
+}
+
+.sidenav .dropdown-content li>a {
+  color: #fdd73e;
+}
+
+.sidenav .dropdown-content a:hover {
+  background-color: #292929;
+}
+
+.section-intro {
+  background-color: #EFCD1A;
+  min-height: 600px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  color: #0D0D0D;
+}
+
+
+.section-services {
+  min-height: 700px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #FBFBFB;
+}
+
+.section-services .card-panel {
+  background: url(../img/yellow.svg);
+  background-position: center;
+  border-radius: 10px;
+  color: #0D0D0D;
+}
+
+.section-services a {
+  color: #0D0D0D;
+  font-weight: bold;
+}
+
+.section-testimonial {
+  background-color: #EFCD1A;
+  background-position: center;
+  background-size: cover;
+  min-height: 400px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.section-contact-us {
+  min-height: 550px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.section-contact-us .btn {
+  width: 200px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
+  
+.main-header-about {
+  background: url(../img/background-img.svg);
+  min-height: 600px;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.main-header-about .btn {
+  width: 250px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
+
+.main-header-about .sidenav .btn {
+  width: 270px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0D0D0D;
+}
+
+.main-header-about .showcase {
+  padding-top: 70px;
+  color: #FBFBFB;
+}
+
+.section-who {
+  background-color: #EFCD1A;
+  min-height: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #0D0D0D;
+}
+
+.section-approach {
+  min-height: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #FBFBFB;
+}
+.section-about {
+  background: url(../img/yellow.svg);
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #0D0D0D;
+}
+
+.section-approach {
+  padding-top: 50px;
+  color: #FBFBFB;
+}
+
+.main-header-service1 {
+  background: url(../img/background-img.svg);
+  min-height: 550px;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.main-header-service1 .btn {
+  width: 250px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
+
+.main-header-service1 .sidenav .btn {
+  width: 270px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0D0D0D;
+}
+
+.main-header-service1 .showcase {
+  padding-top: 70px;
+  color: #FBFBFB;
+}
+
+.main-header-service2 {
+  background: url(../img/background-img.svg);
+  min-height: 550px;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.main-header-service2 .btn {
+  width: 250px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
+
+.main-header-service2 .sidenav .btn {
+  width: 270px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0D0D0D;
+}
+
+.main-header-service2 .showcase {
+  padding-top: 70px;
+  color: #FBFBFB;
+}
+
+.main-header-service3 {
+  background: url(../img/background-img.svg);
+  min-height: 550px;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.main-header-service3 .btn {
+  width: 250px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
+
+.main-header-service3 .sidenav .btn {
+  width: 270px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0D0D0D;
+}
+
+.main-header-service3 .showcase {
+  padding-top: 70px;
+  color: #FBFBFB;
+}
+.main-header-service4 {
+  background: url(../img/background-img.svg);
+  min-height: 550px;
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+.main-header-service4 .btn {
+  width: 250px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
+
+.main-header-service4 .sidenav .btn {
+  width: 270px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #0D0D0D;
+}
+
+.main-header-service4 .showcase {
+  padding-top: 70px;
+  color: #FBFBFB;
+}
+
+.section-what {
+  background-color: #EFCD1A;
+  min-height: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #0D0D0D;
+}
+
+.section-how {
+  min-height: 400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #FBFBFB;
+}
+
+.section-cta {
+  background: url(../img/yellow.svg);
+  background-size: cover;
+  background-position: center;
+  min-height: 180px;
+  border-top: #EFCD1A solid 5px;
+  border-bottom: #EFCD1A solid 5px;
+  position: relative;
+  color: #0D0D0D;
+}
+
+.section-cta .btn {
+  width: 250px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: center;
+  color: #0D0D0D;
+}
