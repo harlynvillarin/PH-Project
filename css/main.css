@@ -1,6 +1,6 @@
 .main-header {
   background: url(../img/background-img.svg);
-  min-height: 600px;
+  min-height: 650px;
   background-position: center;
   background-size: cover;
   color: white;
@@ -178,7 +178,7 @@
 
 .main-header-service1 {
   background: url(../img/background-img.svg);
-  min-height: 550px;
+  min-height: 600px;
   background-position: center;
   background-size: cover;
   color: white;
@@ -206,7 +206,7 @@
 
 .main-header-service2 {
   background: url(../img/background-img.svg);
-  min-height: 550px;
+  min-height: 600px;
   background-position: center;
   background-size: cover;
   color: white;
@@ -234,7 +234,7 @@
 
 .main-header-service3 {
   background: url(../img/background-img.svg);
-  min-height: 550px;
+  min-height: 600px;
   background-position: center;
   background-size: cover;
   color: white;
@@ -261,7 +261,7 @@
 }
 .main-header-service4 {
   background: url(../img/background-img.svg);
-  min-height: 550px;
+  min-height: 600px;
   background-position: center;
   background-size: cover;
   color: white;
